@@ -6,7 +6,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://r.resimlink.com/f_07Ba.png" alt="project-screenshot" width="900" height="400/">
+<img src="https://r.resimlink.com/f_07Ba.png" alt="project-screenshot" width="1240" height="768/">
 
 <h2>🛡️ License:</h2>
 
