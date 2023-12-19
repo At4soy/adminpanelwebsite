@@ -11,3 +11,7 @@
 <h2>🛡️ License:</h2>
 
 This project is licensed under the MIT License
+
+<h2>💖Like my work?</h2>
+
+Destek de bulunmak için discord sunucuma katılabilirsiniz! https://discord.gg/5rzkVaBK9G
