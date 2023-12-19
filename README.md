@@ -2,7 +2,7 @@
 
 <p id="description">Tamamen Bootstrap ile yapılmış responsive tasarıma sahip "Meta (İnstagram ve Facebook sahibi)" şirket adına yönetim paneli web sitesi.</p>
 
-<p align="center"><img src="https://img.shields.io/badge/HTML5-Proficient-red?style=flat&amp;logo=html5" alt="shields"><img src="https://img.shields.io/badge/CSS3-Proficient-orange?style=flat&amp;logo=css3" alt="shields"><img src="https://img.shields.io/badge/BOOTSTRAP-Proficient-blue?style=flat&amp;logo=bootstrap" alt="shields"></p>
+<p align="center"><img src="https://img.shields.io/badge/HTML5-Proficient-red?style=flat&amp;logo=html5" alt="shields"> &nbsp; <img src="https://img.shields.io/badge/CSS3-Proficient-orange?style=flat&amp;logo=css3" alt="shields"> &nbsp; <img src="https://img.shields.io/badge/BOOTSTRAP-Proficient-blue?style=flat&amp;logo=bootstrap" alt="shields"></p>
 
 <h2>Project Screenshots:</h2>
 
